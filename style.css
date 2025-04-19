@@ -286,7 +286,7 @@ span {
 }
 
 .vendor .vendor-row {
-    max-width: 1300px;
+    /* max-width: 1300px; */
     background: white;
     height: 35rem;
     flex: 1 1 30rem;
